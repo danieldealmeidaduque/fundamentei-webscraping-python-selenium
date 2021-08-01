@@ -9,6 +9,9 @@ Quais empresas vou pegar no webscrapping?
   - Caso queira restringir a quantidade de ações, é só modificar esse arquivo para as ações que você quiser
   
 Antes de executar
+  - Precisa ter conta no fundamentei.com e colocar no arquivo "conta.txt"
+    - Primeira linha somente o email
+    - Segunda linha somente a senha
   - Verificar versão do chrome:
     - Clicar nos três pontos no canto superior direito do navegador > ajuda > sobre o google chrome
   - Baixar o chrome driver compatível com a versão do seu google chrome:
