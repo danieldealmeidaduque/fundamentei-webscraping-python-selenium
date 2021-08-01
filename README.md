@@ -9,6 +9,7 @@ Quais empresas vou pegar no webscrapping?
   - Caso queira restringir a quantidade de ações, é só modificar esse arquivo para as ações que você quiser
   
 Antes de executar
+  - Verificar se existe a pasta "Dados" no mesmo diretório do arquivo "fundamentei.py", pois é nele que fica os arquivos de saída.
   - Precisa ter conta no fundamentei.com e colocar no arquivo "conta.txt"
     - Primeira linha somente o email
     - Segunda linha somente a senha
