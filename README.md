@@ -16,8 +16,8 @@ Execução:
   - Abrir o arquivo em uma framework
   - Executar o arquivo 'fundamentei.py'
   - Preencher os inputs solicitados
-    - 1. Email
-    - 2. Senha
+    - Email
+    - Senha
   - Esperar a execução do programa
 
 Resultado:
