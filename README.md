@@ -1,24 +1,23 @@
-# FundamenteiWebScrap
+# Webscraping do Fundamentei
 Aplicação para pegar as informações das ações no site "Fundamentei"
 
--- Versão 0 - 01/08/2021
-
-Quais empresas vou pegar no webscrapping?
+Quais empresas pegar no webscrapping?
   - O arquivo 'empresas.txt' tem o código de todas empresas do ibov separados por quebra de linha
   - Esse arquivo é usado como padrão na execução do código
-  - Caso queira restringir a quantidade de ações, é só modificar esse arquivo para as ações que você quiser
-  
-Antes de executar
-  - Verificar se existe a pasta "Dados" no mesmo diretório do arquivo "fundamentei.py", pois é nele que fica os arquivos de saída.
-  - Precisa ter conta no fundamentei.com e colocar no arquivo "conta.txt"
-    - Primeira linha somente o email
-    - Segunda linha somente a senha
-  - Verificar versão do chrome:
-    - Clicar nos três pontos no canto superior direito do navegador > ajuda > sobre o google chrome
-  - Baixar o chrome driver compatível com a versão do seu google chrome:
-    - https://chromedriver.chromium.org/downloads
-    - Colocar o chromedriver.exe baixado na pasta "ChromeDriver"
+  - Caso queira restringir, é só modificar esse arquivo para as empresas que quiser
 
-Como executar?
+-- Versão 1 - 01/08/2021
+
+Observações:
+  - Precisa ter conta e pagar a assinatura no site para acessar as informações
+  
+Execução:
   - Abrir o arquivo em uma framework
   - Executar o arquivo 'fundamentei.py'
+  - Preencher os inputs solicitados
+    - 1. Email
+    - 2. Senha
+  - Esperar a execução do programa
+
+Resultado:
+  - Arquivo excel com as páginas das informações de cada empresa
