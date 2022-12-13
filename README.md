@@ -6,10 +6,6 @@ Quais empresas pegar no webscrapping?
   - Esse arquivo é usado como padrão na execução do código
   - Caso queira restringir, é só modificar esse arquivo para as empresas que quiser
 
--- Versão 1 - 01/08/2021
-
--- Versão 2 - 13/12/2022
-
 Observações:
   - Precisa ter conta e pagar a assinatura no site para acessar as informações
   
@@ -23,3 +19,8 @@ Execução:
 
 Resultado:
   - Arquivo excel com as páginas das informações de cada empresa
+
+
+-- Versão 1 - 01/08/2021
+
+-- Versão 2 - 13/12/2022
