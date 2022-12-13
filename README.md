@@ -1,7 +1,7 @@
 # Webscraping do Fundamentei
 Aplicação para pegar as informações das ações no site "Fundamentei"
 
-## Quais empresas pegar no webscrapping?
+## Quais empresas pegar no webscraping?
   - O arquivo 'empresas.txt' tem o código de todas empresas do ibov separados por quebra de linha
   - Esse arquivo é usado como padrão na execução do código
   - Caso queira restringir, é só modificar esse arquivo para as empresas que quiser
@@ -19,7 +19,6 @@ Aplicação para pegar as informações das ações no site "Fundamentei"
 
 ## Resultado
   - Arquivo excel com as páginas das informações de cada empresa
-
 
 ## Versão 1 - 01/08/2021
 
