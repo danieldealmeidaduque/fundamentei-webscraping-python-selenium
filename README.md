@@ -7,6 +7,7 @@ Quais empresas pegar no webscrapping?
   - Caso queira restringir, é só modificar esse arquivo para as empresas que quiser
 
 -- Versão 1 - 01/08/2021
+
 -- Versão 2 - 13/12/2022
 
 Observações:
