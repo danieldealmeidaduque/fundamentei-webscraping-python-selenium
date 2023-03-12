@@ -90,7 +90,7 @@ Install the following python libraries: pandas, openpyxl, selenium and beautiful
   pip install beautifulSoup4
   ```
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<!-- <p align="right">(<a href="#readme-top">back to top</a>)</p> -->
 
 
 
