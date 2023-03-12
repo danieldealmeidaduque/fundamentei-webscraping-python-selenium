@@ -8,8 +8,6 @@
 *** Thanks again! Now go create something AMAZING! :D
 -->
 
-
-
 <!-- PROJECT SHIELDS -->
 <!--
 *** I'm using markdown "reference style" links for readability.
@@ -73,7 +71,9 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-Here's a blank template to get started: To avoid retyping too much info.
+<p align="justify">
+    Fundamentei is a website with financial data about companies. They have several different data such as financial results for each year. I created this webscraping project to get the information about brazilian companies in this website to agregate the information in a single database and uset it later to facilitate the analysis of financial results and help choosing the best companies.
+</p>
 
 
 <!-- GETTING STARTED -->
