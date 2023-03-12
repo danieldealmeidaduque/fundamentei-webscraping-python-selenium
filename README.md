@@ -72,7 +72,15 @@
 ## About The Project
 
 <p align="justify">
-    Fundamentei is a website with financial data about companies. They have several different data such as financial results for each year. I created this webscraping project to get the information about brazilian companies in this website to agregate the information in a single database and uset it later to facilitate the analysis of financial results and help choosing the best companies.
+  I developed a webscraping project to collect financial data from Fundamentei, a website that provides information on companies financials. This website contains   various data, such as financial results for each year.
+</p>
+
+<p align="justify">
+  My project aims to aggregate financial information from Brazilian companies available on the Fundamentei website into a single database. The goal is to make it easier to analyze financial results and help in the selection of the best companies.
+</p>
+
+<p align="justify">
+  By consolidating this information into a single database, I hope to provide a more convenient and efficient way of accessing and analyzing financial data for Brazilian companies.
 </p>
 
 
