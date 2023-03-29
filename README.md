@@ -34,8 +34,6 @@
     03/20 - on going
     <br />
     <a href="https://github.com/danieldealmeidaduque/webscraping-fundamentei-selenium">Report Bug</a>
-    ·
-    <a href="https://github.com/danieldealmeidaduque/webscraping-fundamentei-selenium">Request Feature</a>
   </p>
 </div>
 
